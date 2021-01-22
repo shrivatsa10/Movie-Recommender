@@ -1,14 +1,14 @@
 # Movie Recommender App
 > This is a movie recommender application made using python and flask. It used cosine similarity to create a matrix of similar movies and recommend movies based on the input.
 
-[![NPM Version][npm-image]]
-[![Build Status][travis-image]]
-[![Downloads Stats][npm-downloads]]
+![NPM Version][npm-image]
+![Build Status][travis-image]
+![Downloads Stats][npm-downloads]
 
 One to two paragraph statement about your product and what it does.
 
-![](header.png)
-
+![Alt text](/relative/path/to/header.png?raw=true "Optional Title")
+![Alt text](/relative/path/to/header2.png?raw=true "Optional Title")
 
 ## Use
 
