@@ -1,0 +1,121 @@
+,movie_title,director_name,Cast and crew,genres,actor_1_name,actor_2_name,actor_3_name
+0,Salt Bridge,Abhijit Deonath,Rajeev  Khandelwal Chelsie  Preston  Crayford Usha  Jadhav,Drama,Rajeev  Khandelwal,Chelsie  Preston,Usha  Jadhav
+1,Cabaret,Kaustav Narayan Niyogi,Richa  Chadda Gulshan  Devaiah S.  Sreesanth,"Drama, Music, Musical",Richa  Chadda,Gulshan  Devaiah,S.  Sreesanth
+2,Uri: The Surgical Strike,Aditya Dhar,Vicky  Kaushal Mohit  Raina Paresh  Rawal Yami  Gautam,"Action, Drama, War",Vicky  Kaushal,Yami  Gautam,Paresh  Rawal
+3,Battalion 609,Brijesh Batuknath Tripathi,Shoaib  Ibrahim Elena  Kazan Farnaz  Shetty Vishwas  Kini Vicky  Ahuja Vikas  Srivastava Chandraprakash  Thakur,War,Shoaib  Ibrahim,Elena  Kazan ,Farnaz  Shetty
+4,The Accidental Prime Minister,Vijay Ratnakar Gutte,Anupam  Kher Akshaye  Khanna Suzanne  Bernert Aahana  Kumra Arjun  Mathur,"Biography, Drama",Anupam  Kher,Akshaye  Khanna,Suzanne  Bernert
+5,Evening Shadows,Sridhar Rangayan,Mona  Ambegaonkar Ananth  Narayan  Mahadevan Devansh  Doshi Arpit  Chaudhary,Drama,Mona  Ambegaonkar,Ananth  Narayan  Mahadevan,Devansh  Doshi 
+6,Why Cheat India,Soumik Sen,Emraan  Hashmi Shreya  Dhanwanthary,"Crime, Drama",Emraan  Hashmi,Shreya  Dhanwanthary,
+7,SP Chauhan,Manoj K Jha,Jimmy  Shergill Yuvika  Chaudhary Yashpal  Sharma,Drama,Jimmy  Shergill,Yuvika  Chaudhary,Yashpal  Sharma
+8,Fraud Saiyaan,Sourabh Shrivastava,Arshad  Warsi Sara  Loren Saurabh  Shukla,"Comedy, Drama",Arshad  Warsi,Sara  Loren,Saurabh  Shukla
+9,Soni,Ivan Ayr,Geetika  Vidhya  Olyan Saloni  Batra,Drama,Geetika  Vidhya  Olyan,Saloni  Batra,
+10,72 Hours: Martyr Who Never Died,Avinash Dhyani,Avinash  Dhyani Mukesh  Tiwari Virendra  Saxena Alka  Amin  Shishir  Sharma Gireesh  Sahdev Prashil  Rawat,"Action, Biography, Drama, War",Avinash  Dhyani ,Mukesh  Tiwari,Virendra  Saxena
+11,Bombairiya,Pia Sukanya,Radhika  Apte Siddhanth  Kapoor Akshay  Oberoi Shilpa  Shukla Adil  Hussain Amit  Sial Ravi  Kishan,"Comedy, Crime, Drama",Radhika  Apte,Siddhanth  Kapoor,Akshay  Oberoi
+12,Rangeela Raja,Sikander Bharti,Govinda Shakti  Kapoor Prem  Chopra Govind  Namdev Shyamlal  Yadav Mishika  Chourasia Anupama  Agnihotri Digangana  Suryavanshi Karishma  Harshada Arti  Gupta,Comedy,Govinda,Shakti  Kapoor,Prem  Chopra
+13,Thackeray,Abhijit Panse,Nawazuddin  Siddiqui Amrita  Rao,"Biography, Drama",Nawazuddin  Siddiqui,Amrita  Rao,
+14,Manikarnika: The Queen of Jhansi,Radha Krishna JagarlamudiKangana Ranaut,Kangana  Ranaut Jisshu  Sengupta Suresh  Oberoi Ankita  Lokhande Danny  Denzongappa Atul  Kulkarni Mohammed  Zeeshan  Ayyub,"Action, Biography, Drama, History",Kangana  Ranaut,Jisshu  Sengupta,Ankita  Lokhande
+15,Ek Ladki Ko Dekha Toh Aisa Laga,Shelly Chopra Dhar,Anil  Kapoor Sonam  Kapoor Juhi  Chawla Rajkummar  Rao,"Comedy, Drama, Romance",Anil  Kapoor,Sonam  Kapoor,Rajkummar  Rao
+16,The Fakir of Venice,Anand Surapur,Farhan  Akhtar Annu  Kapoor,Drama,Farhan  Akhtar,Annu  Kapoor,
+17,Dosti Ke Side Effects,Hadi Ali Abrar,Sapna  Choudhry Vikrant  Anand Neel  Motwani Zuber  K.  Khan Anju  Jadhav,Drama,Sapna  Choudhry,Vikrant  Anand,Neel  Motwani
+18,Amavas,Bhushan Patel,Sachiin  Joshi Vivan  Bhatena Nargis  Fakhri,"Horror, Thriller",Sachiin  Joshi,Vivan  Bhatena,Nargis  Fakhri
+19,Gully Boy,Zoya Akhtar,Ranveer  Singh Alia  Bhatt,"Drama, Music",Ranveer  Singh,Alia  Bhatt,Sidhant Chaturvedi
+20,Hum Chaar,Abhishek Dixit,Prit  Kamani Simran  Sharma Anshuman  Malhotra Tushar  Pandey,Drama,Prit  Kamani,Simran  Sharma,Anshuman  Malhotra
+21,Total Dhamaal,Indra Kumar,Ajay  Devgn Madhuri  Dixit Arshad  Warsi Javed  Jaffrey Anil  Kapoor Riteish  Deshmukh Sanjay  Mishra,"Action, Adventure, Comedy",Arshad  Warsi,Javed  Jaffrey,Riteish  Deshmukh
+22,Goopi Gawaiya Bagha Bajaiya,Shilpa Ranade,Manish  Bhawan Rajeev  Raj Shailendra  Pande,"Animation, Comedy, Drama",Manish  Bhawan,Rajeev  Raj,Shailendra  Pande
+23,Luka Chuppi,Laxman Utekar,Kartik  Aaryan Kriti  Sanon Aparshakti  Khurana Pankaj  Tripathi Vinay  Pathak,"Comedy, Romance",Kartik  Aaryan,Kriti  Sanon,Aparshakti  Khurana
+24,Sonchiriya,Abhishek Chaubey,Sushant  Singh  Rajput Bhumi  Pednekar Manoj  Bajpayee Ranvir  Shorey Ashutosh  Rana,"Action, Crime, Drama",Sushant  Singh  Rajput,Bhumi  Pednekar,Manoj  Bajpayee
+25,Badla,Sujoy Ghosh,Amitabh  Bachchan Taapsee  Pannu,"Crime, Drama, Mystery, Thriller",Amitabh  Bachchan,Taapsee  Pannu,Amrita Singh
+26,The Sholay Girl,Aditya Sarpotdar,Bidita  Bag Chandan  Roy  Sanyal,"Action, Biography, Drama",Bidita  Bag,Chandan  Roy  Sanyal,
+27,Hamid,Aijaz Khan,Talha  Arshad  Reshi Rasika  Dugal Vikas  Kumar Sumit  Kaul,Drama,Talha  Arshad  Reshi,Rasika  Dugal,Vikas  Kumar
+28,Photograph,Ritesh Batra,Nawazuddin  Siddiqui Sanya  Malhotra,"Drama, Romance",Nawazuddin  Siddiqui,Sanya  Malhotra,
+29,Milan Talkies,Tigmanshu Dhulia,Ali  Fazal Shraddha  Srinath Reecha  Sinha Ashutosh  Rana Sanjay  Mishra Sikandar  Kher,Drama,Ali  Fazal,Shraddha  Srinath,Ashutosh  Rana
+30,Risknamaa,Aarun Nagar,Sachin  Khari Aarun  Nagar Shahbaz  Khan Pramod  Moutho Ravi  Verma,Drama,Sachin  Khari,Aarun  Nagar,Shahbaz  Khan
+31,Mere Pyare Prime Minister,Rakeysh Omprakash Mehra,Anjali  Patil Makarand  Deshpande Rasika  Aagashe Sonia  Albizuri Syna  Anand Adarsh  Bharti Om  Kanojiya,Drama,Anjali  Patil,Makarand  Deshpande,Rasika  Aagashe
+32,22 Yards,Mitali Ghoshal,Barun  Sobti Amartya  Ray Panchi  Bora Rajit  Kapur Rajesh  Sharma Chaiti  Ghoshal Geetika  Tyagi,Sport,Barun  Sobti,Amartya  Ray,Panchi  Bora
+33,377 Ab Normal,Faruk Kabir,Shashank  Arora Mohammed  Zeeshan  Ayyub Tanvi  Azmi Maanvi  Gagroo,Drama,Shashank  Arora,Mohammed  Zeeshan  Ayyub,Tanvi  Azmi
+34,Kesari,Anurag Singh,Akshay  Kumar Parineeti  Chopra Mir  Sarwar Ashwath  Bhatt,"Action, Drama, History, War",Akshay  Kumar,Mir  Sarwar,Ashwath  Bhatt
+35,Mard Ko Dard Nahi Hota,Vasan Bala,Abhimanyu  Dassani Radhika  Madan Gulshan  Devaiah Mahesh  Manjrekar Jimit  Trivedi Shweta  Basu  Prasad,"Comedy, Drama",Abhimanyu  Dassani,Radhika  Madan,Gulshan  Devaiah
+36,Ram Ki Janmabhoomi,Sanoj Mishra,Govind  Namdeo Manoj  Joshi Najneen  Patni Rajveer  Singh,Drama,Govind  Namdeo,Manoj  Joshi,Najneen  Patni
+37,Notebook,Nitin Kakkar,Zaheer  Iqbal Pranutan  Bahl,"Drama, Romance",Zaheer  Iqbal,Pranutan  Bahl,
+38,Junglee,Chuck Russell,Vidyut  Jammwal Pooja  Sawant Asha  Bhat Atul  Kulkarni,"Action, Adventure",Vidyut  Jammwal,Pooja  Sawant,Asha  Bhat
+39,Gone Kesh,Qasim Khallow,Shweta  Tripathi Jitendra  Kumar Vipin  Sharma Deepika  Amin Brijendra  Kala,"Comedy, Drama",Shweta  Tripathi,Jitendra  Kumar,Vipin  Sharma
+40,Romeo Akbar Walter,Robbie Garewal,John  Abraham Mouni  Roy Jackie  Shroff Sikander  Kher Suchitra  Krishnamoorthi,"Action, Drama, Thriller",John  Abraham,Mouni  Roy,Jackie  Shroff
+41,Jai Chhathi Maa,Murari Sinha,"Ravi  Kishan,  Gurleen  Chopra,  Preeti  Jhangiani",Family,Ravi  Kishan,Gurleen  Chopra,Preeti  Jhangiani
+42,Albert Pinto Ko Gussa Kyun Aata Hai?,Soumitra Ranade,Manav  Kaul Nandita  Das Saurabh  Shukla Kishor  Kadam,Drama,Manav  Kaul,Nandita  Das,Saurabh  Shukla
+43,The Tashkent Files,Vivek Agnihotri,Mithun  Chakraborty Naseeruddin  Shah Shweta  Basu  Prasad Pankaj  Tripathi Vinay  Pathak Mandira  Bedi Pallavi  Joshi Ankur  Rathee Prakash  Belawadi,"Drama, Mystery, Thriller",Mithun  Chakraborty,Naseeruddin  Shah,Shweta  Basu
+44,Kalank,Abhishek Varman,Madhuri  Dixit Sonakshi  Sinha Alia  Bhatt Varun  Dhawan Aditya  Roy  Kapur Sanjay  Dutt,"Drama, Romance",Varun  Dhawan,Alia  Bhatt,Aditya  Roy  Kapur
+45,Blank,Behzad Khambata,Sunny  Deol Karan  Kapadia Ishita  Dutta,"Action, Thriller",Sunny  Deol,Karan  Kapadia,Ishita  Dutta
+46,Setters,Ashwini Chaudhary,Aftab  Shivdasani Shreyas  Talpade Sonnalli  Seygall Ishita  Dutta Pavan  Malhotra Vijay  Raaz Jameel  Khan Manu  Rishi,Thriller,Aftab  Shivdasani,Shreyas  Talpade,Sonnalli  Seygall
+47,Badnaam Gali,Ashwin Shetty,Patralekha  Paul Divyendu  Sharma,Comedy,Patralekha,Divyendu  Sharma,
+48,Chhota Bheem Kung Fu Dhamaka[a],Rajiv Chilaka,Parigna  Pandya  Shah Julie  Tejwani Pinky  Rajput Rajesh  Kava,Animation,Parigna  Pandya, Shah Julie,Pinky  Rajput
+49,Student of the Year 2,Punit Malhotra,Tiger  Shroff Tara  Sutaria Ananya  Panday,"Drama, Romance, Sport",Tiger  Shroff,Tara  Sutaria,Ananya  Panday
+50,De De Pyaar De,Akiv Ali,Ajay  Devgn Tabu Rakul  Preet  Singh Javed  Jaffrey Jimmy  Sheirgill,"Comedy, Drama, Romance",Ajay  Devgn,Tabu,Rakul  Preet  Singh
+51,India's Most Wanted,Rajkumar Gupta,Arjun  Kapoor Sudev  Nair Rajesh  Sharma Prashanth  Alexander Shantilal  Mukherjee,"Action, Thriller",Arjun  Kapoor,Sudev  Nair,Rajesh  Sharma
+52,PM Narendra Modi,Omung Kumar,Vivek  Oberoi Boman  Irani Manoj  Joshi Barkha  Sengupta Aanjjan  Srivastav Zarina  Wahab Suresh  Oberoi,"Biography, Drama",Vivek  Oberoi,Boman  Irani,Manoj  Joshi
+53,Yeh Hai India,Lomharsh,Gavie  Chahal Mohan  Aghashe Mohan  Joshi,"Action, Adventure, Drama",Gavie  Chahal Mohan,Aghashe Mohan  Joshi,
+54,Bharat,Ali Abbas Zafar,Salman  Khan Tabu Katrina  Kaif Sunil  Grover Disha  Patani Aasif  Sheikh,"Action, Comedy, Drama",Salman  Khan,Katrina  Kaif,Sunil  Grover
+55,Khamoshi,Chakri Toleti,Prabhu  Deva Tamannaah Bhumika  Chawla,"Drama, Romance",Prabhu  Deva,Tamannaah,Bhumika  Chawla
+56,Kissebaaz,Annant Jaaitpaal,Pankaj  Tripathi Anupriya  Goenka Evelyn  Sharma Rahul  Bagga Mouli  Ganguly Zakir  Hussain Rajesh  Sharma,"Action, Comedy, Crime, Drama, Thriller",Pankaj  Tripathi,Anupriya  Goenka,Evelyn  Sharma
+57,Jaoon Kahan Bata Ae Dil,Aadish Keluskar,Khushboo  Upadhyay Rohit  Kokate,Drama,Khushboo  Upadhyay,Rohit  Kokate,
+58,Kabir Singh,Sandeep Vanga,Shahid  Kapoor Kiara  Advani Soham  Majumdar Arjan  Bajwa Kamini  Kaushal Nikita  Dutta Amit  Sharma Kunal  Thakur Swati  Seth Anusha  Sampath Suresh  Oberoi,"Drama, Romance",Shahid  Kapoor,Kiara  Advani,Soham  Majumdar
+59,Article 15,Anubhav Sinha,Ayushmann  Khurrana Isha  Talwar Nassar Manoj  Pahwa Sayani  Gupta Kumud  Mishra Mohammed  Zeeshan  Ayyub,"Crime, Drama, Mystery, Thriller",Ayushmann  Khurrana,Manoj  Pahwa,Kumud  Mishra
+63,Malaal,Mangesh Hadawale,Meezaan  Jaffery Sharmin  Segal,"Action, Drama, Romance",Meezaan  Jaffery,Sharmin  Segal,
+64,One Day: Justice Delivered,Ashok Nanda,Anupam  Kher Esha  Gupta Kumud  Mishra,"Action, Crime, Thriller",Anupam  Kher,Esha  Gupta,Kumud  Mishra
+65,Hume Tumse Pyaar Kitna,Lalit Mohan,Karanvir  Bohra Priya  Banerjee Samir  Kochhar Mahesh  Balraj,"Action, Drama, Romance, Thriller",Karanvir  Bohra,Priya  Banerjee,Samir  Kochhar
+66,Marudhar Express,Vishal Mishra,Kunaal  Roy  Kapur Tara  Alisha  Berry Rajesh  Sharma,"Drama, Romance",Kunaal  Roy  Kapur,Tara  Alisha  Berry,Rajesh  Sharma
+67,Super 30,Vikas Bahl,Hrithik  Roshan Mrunal  Thakur Amit  Sadh Pankaj  Tripathi,"Biography, Drama",Hrithik  Roshan,Mrunal  Thakur,Pankaj  Tripathi
+68,Family of Thakurganj,Manoj K. Jha,Jimmy  Sheirgill Mahie  Gill Saurabh  Shukla Sudhir  Pandey Supriya  Pilgaonkar Pavan  Malhotra Mukesh  Tiwari Nandish  Singh Yashpal  Sharma Pranati  Rai  Prakash Raj  Zutshi Salil  Acharya Manoj  Pahwa,"Action, Drama",Jimmy  Sheirgill,Mahie  Gill,Saurabh  Shukla
+69,Jhootha Kahin Ka,Smeep Kang,Rishi  Kapoor Omkar  Kapoor Sunny  Singh Jimmy  Sheirgill Lillete  Dubey Manoj  Joshi,Comedy,Rishi  Kapoor,Omkar  Kapoor,Sunny  Singh
+70,Judgementall Hai Kya,Prakash Kovelamudi,Kangana  Ranaut Rajkummar  Rao Jimmy  Sheirgill Amyra  Dastur Amrita  Puri,"Comedy, Drama, Mystery, Thriller",Kangana  Ranaut,Rajkummar  Rao,Jimmy  Sheirgill
+71,Arjun Patiala,Rohit Jugraj,Diljit  Dosanjh Kriti  Sanon Varun  Sharma Ronit  Roy,"Action, Comedy",Diljit  Dosanjh,Kriti  Sanon,Varun  Sharma
+72,Khandaani Shafakhana,Shilpi Dasgupta,Sonakshi  Sinha Varun  Sharma Annu  Kapoor Badshah,"Comedy, Drama",Sonakshi  Sinha,Varun  Sharma,Annu  Kapoor
+73,Barot House,Bugs Bhargava,Amit  Sadh Manjari  Fadnis,Thriller,Amit  Sadh,Manjari  Fadnis,
+74,Jabariya Jodi,Prashant Singh,Sidharth  Malhotra Parineeti  Chopra,"Action, Comedy, Drama, Romance",Sidharth  Malhotra,Parineeti  Chopra,
+75,Chicken Curry Law,Shekhar Sirrinn,Ashutosh  Rana Nivedita  Bhattacharya Makrand  Deshpande Zakir  Hussain Aman  Verma Natalia  Janoszek,Drama,Ashutosh  Rana,Nivedita  Bhattacharya,Makrand  Deshpande
+76,Pranaam,Sanjiv Jaiswal,Rajeev  Khandelwal Sameksha Shaji  Chaudhary Atul  Kulkarni Abhimanyu  Singh Vikram  Gokhale,"Action, Crime, Drama, Thriller",Rajeev  Khandelwal,Sameksha Shaji,Atul  Kulkarni
+77,Batla House,Nikhil Advani,John  Abraham Mrunal  Thakur,"Action, Drama, Thriller",John  Abraham,Mrunal  Thakur,Ravi Kishan
+78,Mission Mangal,Jagan Shakti,Akshay  Kumar Vidya  Balan Sharman  Joshi Sonakshi  Sinha Taapsee  Pannu Kirti  Kulhari Nithya  Menen,"Drama, History, Sci-Fi",Akshay  Kumar,Vidya  Balan,Sharman  Joshi
+79,Posham Pa,Suman Mukhopadhyay,Mahie  Gill Sayani  Gupta Ragini  Khanna,"Crime, Drama, Thriller",Mahie  Gill,Sayani  Gupta,Ragini  Khanna
+80,Saaho,Sujeeth,Prabhas Neil  Nitin  Mukesh Shraddha  Kapoor Jackie  Shroff,"Action, Thriller",Prabhas,Neil  Nitin  Mukesh, Shraddha  Kapoor
+81,Chhichhore,Nitesh Tiwari,Sushant  Singh  Rajput Shraddha  Kapoor Varun  Sharma Prateik  Babbar Tahir  Raj  Bhasin Naveen  Polishetty Tushar  Pandey Saharsh  Shukla,"Comedy, Drama",Sushant  Singh  Rajput,Shraddha  Kapoor,Varun  Sharma
+82,Dream Girl,Raaj Shaandilyaa,Ayushmann  Khurrana Nushrat  Bharucha,"Comedy, Romance",Ayushmann  Khurrana,Nushrat  Bharucha,Manjot Singh
+83,Section 375,Ajay Bahl,Akshaye  Khanna Richa  Chadha Rahul  Bhat Meera  Chopra,"Drama, Mystery",Akshaye  Khanna,Richa  Chadha,Rahul  Bhat
+84,The Zoya Factor,Abhishek Sharma,Sonam  Kapoor Dulquer  Salmaan Sanjay  Kapoor,"Comedy, Drama, Romance, Sport",Sonam  Kapoor,Dulquer  Salmaan,Sanjay  Kapoor
+85,Pal Pal Dil Ke Paas,Sunny Deol,Karan  Deol Sahher  Bambba,"Action, Drama, Romance",Karan  Deol,Sahher  Bambba,
+86,Prassthanam,Deva Katta,Sanjay  Dutt Manisha  Koirala Jackie  Shroff Chunky  Pandey Ali  Fazal Amyra  Dastur Satyajeet  Dubey,"Action, Drama",Sanjay  Dutt,Manisha  Koirala, Jackie  Shroff
+88,War,Siddharth Anand,Hrithik  Roshan Tiger  Shroff Vaani  Kapoor,"Action, Crime, Thriller",Hrithik  Roshan,Tiger  Shroff,Vaani  Kapoor
+89,The Sky Is Pink,Shonali Bose,Priyanka  Chopra Farhan  Akhtar Zaira  Wasim Rohit  Suresh  Saraf,"Drama, Romance",Priyanka  Chopra,Farhan  Akhtar,Zaira  Wasim
+90,Chappad Phaad Ke,Sameer Hemant Joshi,Vinay  Pathak Siddharth  Menon Ayesha  Raza  Mishra Seethal  Thakur,Comedy,Vinay  Pathak,Siddharth  Menon,Siddharth  Menon
+91,Ghost,Vikram Bhatt,Sanaya  Irani Shivam  Bhaargava,"Drama, Fantasy, Romance, Thriller",Sanaya  Irani,Shivam  Bhaargava,
+92,Laal Kaptaan,Navdeep Singh,Saif  Ali  Khan Manav  Vij Zoya  Hussain Deepak  Dobriyal Simone  Singh,"Action, Adventure, Drama",Saif  Ali  Khan,Manav  Vij,Zoya  Hussain
+93,P Se Pyaar F Se Faraar,Manoj Tiwari,Jimmy  Sheirgill Kumud  Mishra Bhavesh  Kumar,"Crime, Drama, Romance",Jimmy  Sheirgill,Kumud  Mishra,Bhavesh  Kumar
+94,Upstart,Udai Singh Pawar,Priyanshu  Painyuli Chandrachoor  Rai Shadab  Kamal Sheetal  Thakur,Comedy,Priyanshu  Painyuli,Shadab  Kamal,Sheetal  Thakur
+95,Yaaram,Ovais Khan,Prateik  Babbar Siddhanth  Kapoor Ishita  Raj  Sharma,"Comedy, Romance",Prateik  Babbar,Siddhanth  Kapoor,Ishita  Raj  Sharma
+97,Housefull 4,Farhad Samji,Akshay  Kumar Ritesh  Deshmukh Bobby  Deol Kriti  Sanon Kriti  Kharbanda Pooja  Hegde Chunky  Pandey Ranjeet Rana  Daggubati,"Action, Comedy, Fantasy, Romance",Akshay  Kumar,Ritesh  Deshmukh,Bobby  Deol
+98,Kanpuriye,Ashish Aryan,Aparshakti  Khurana Divyenndu Harsh  Mayar Vijay  Raaz Rajshri  Deshpande Harshita  Gaur,Drama,Aparshakti  Khurana ,Vijay  Raaz,Rajshri  Deshpande
+99,Made in China,Mikhil Musale,Rajkummar  Rao Mouni  Roy Boman  Irani Gajraj  Rao Sumeet  Vyas Amyra  Dastur Paresh  Rawal,"Action, Comedy, Fantasy",Rajkummar  Rao,Mouni  Roy,Boman  Irani
+100,Saand Ki Aankh,Tushar Hiranandani,Bhumi  Pednekar Taapsee  Pannu Prakash  Jha Vineet  Kumar  Singh,"Biography, Drama",Bhumi  Pednekar,Taapsee  Pannu,Vineet  Kumar  Singh
+101,Drive,Tarun Mansukhani,Sushant  Singh  Rajput Jacqueline  Fernandez Vikramjeet  Virk Sapna  Pabbi Boman  Irani Pankaj  Tripathi,"Crime, Drama",Sushant  Singh  Rajput,Jacqueline  Fernandez,Boman  Irani
+102,Ujda Chaman,Abhishek Pathak,Sunny  Singh Maanvi  Gagroo Karishma  Sharma Aishwarya  Sakhuja,Comedy,Sunny  Singh,Maanvi  Gagroo,Karishma  Sharma
+103,Bala,Amar Kaushik,Ayushmann  Khurrana Bhumi  Pednekar Yami  Gautam Saurabh  Shukla Javed  Jaffrey Seema  Pahwa,Comedy,Ayushmann  Khurrana,Bhumi  Pednekar,Yami  Gautam
+104,Bypass Road,Naman Nitin Mukesh,Neil  Nitin  Mukesh Adah  Sharma Shama  Sikander Gul  Panag Rajit  Kapur Sudhanshu  Pandey,Drama,Neil  Nitin  Mukesh,Adah  Sharma,Shama  Sikander
+105,Moothon[c],Geetu Mohandas,Nivin  Pauly Sanjana  Dipu Shashank  Arora Sobhita  Dhulipala Dileesh  Pothan Jim  Sarbh Roshan  Mathew,Drama,Nivin  Pauly,Sanjana  Dipu,Shashank  Arora
+106,Satellite Shankar,Irfan Kamal,Sooraj  Pancholi Megha  Akash,Drama,Sooraj  Pancholi,Megha  Akash,
+107,Jhalki,Brahmanand S. Siingh,Boman  Irani Tannishtha  Chatterjee Divya  Dutta Sanjay  Suri Yatin  Karyekar Akhilendra  Mishra Govind  Namdev Joy  Sengupta,Drama,Boman  Irani,Tannishtha  Chatterjee,Divya  Dutta
+108,House Arrest,Shashanka Ghosh and Samit Basu,Ali  Fazal Shriya  Pilgaonkar Jim  Sarbh,Comedy,Ali  Fazal,Shriya  Pilgaonkar,Jim  Sarbh
+109,Keep Safe Distance,Raama Mehra,Kiran  Kumar Shahbaz  Khan,Drama,Kiran  Kumar,Shahbaz  Khan,
+110,Marjaavaan,Milap Milan Zaveri,Ritesh  Deshmukh Sidharth  Malhotra Tara  Sutaria Rakul  Preet  Singh,"Action, Comedy, Drama",Ritesh  Deshmukh,Sidharth  Malhotra,Tara  Sutaria
+111,Motichoor Chaknachoor,Debamitra Biswal,Nawazuddin  Siddiqui Athiya  Shetty,"Comedy, Drama",Nawazuddin  Siddiqui,Athiya  Shetty,
+112,Marne Bhi Do Yaaron,Kashmira Shah,Krishna  Abhishek Kashmira  Shah Rishaab  Chauhaan,Comedy,Krishna  Abhishek,Kashmira  Shah,Rishaab  Chauhaan
+113,Pagalpanti,Anees Bazmee,Anil  Kapoor John  Abraham Ileana  D' Cruz Arshad  Warsi Pulkit  Samrat Kriti  Kharbanda Urvashi  Rautela Saurabh  Shukla,Comedy,Anil  Kapoor ,John  Abraham,Arshad Warsi
+114,Commando 3,Aditya Datt,Vidyut  Jammwal Adah  Sharma Angira  Dhar Gulshan  Devaiah,"Action, Adventure",Vidyut  Jammwal,Adah  Sharma,Gulshan  Devaiah
+115,Yeh Saali Aashiqui,Cherag Ruparel,Vardhan  Puri Shivaleeka  Oberoi,"Drama, Romance",Vardhan  Puri,Shivaleeka  Oberoi,
+116,Hotel Mumbai,Anthony Maras,Anupam  Kher Dev  Patel Vipin  Sharma Suhail  Nayyar Nazanin  Boniadi Jason  Isaacs,Drama,Anupam  Kher,Dev  Patel,Vipin  Sharma
+117,Line of Descent[d],Rohit Karn Batra,Brendan  Fraser Abhay  Deol Ronit  Roy Neeraj  Kabi Prem  Chopra Ali  Haji,Drama,Brendan  Fraser,Abhay  Deol,Ronit  Roy
+118,Panipat,Ashutosh Gowariker,Sanjay  Dutt Arjun  Kapoor Kriti  Sanon Mohnish  Bahl,"Biography, Drama",Sanjay  Dutt,Arjun  Kapoor,Kriti  Sanon
+119,Pati Patni Aur Woh,Mudassar Aziz,Kartik  Aaryan Bhumi  Pednekar Ananya  Panday,"Comedy, Drama",Kartik  Aaryan,Bhumi  Pednekar,Ananya  Panday
+120,Mardaani 2,Gopi Puthran,Rani  Mukerji Vikram  Singh  Chauhan Shruti  Bapna Rajesh  Sharma Sudhanshu  Pandey,"Drama, Mystery",Rani  Mukerji,Vikram  Singh  Chauhan,Shruti  Bapna
+121,The Body,Jeethu Joseph,Emraan  Hashmi Rishi  Kapoor Vedhika Sobhita  Dhulipala,"Drama, Mystery",Emraan  Hashmi,Rishi  Kapoor,Vedhika
+122,Dabangg 3,Prabhu Deva,Salman  Khan Sonakshi  Sinha Sudeep Saiee  Manjrekar Arbaaz  Khan,"Action, Comedy",Salman  Khan,Sonakshi  Sinha,Sudeep
+123,Happi,Bhavna Talwar,Pankaj  Kapoor Supriya  Pathak Hrishitaa  Bhatt,Drama,Pankaj  Kapoor, Supriya  Pathak,Hrishitaa  Bhatt
+124,Good Newwz,Raj Mehta,Akshay  Kumar Kareena  Kapoor Diljit  Dosanjh Kiara  Advani,"Comedy, Drama",Akshay  Kumar, Kareena  Kapoor, Diljit  Dosanjh
